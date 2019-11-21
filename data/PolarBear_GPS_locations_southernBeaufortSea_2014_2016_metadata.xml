@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Pagano, Anthony M. (ORCID:0000-0003-2176-0909)</origin>
+        <pubdate>2018</pubdate>
+        <title>GPS Location Data from Female Polar Bears (Ursus maritimus) Instrumented in the Southern Beaufort Sea with Video Camera Collars equipped with Satellite-linked GPS Receivers by the USGS in April 2014-2016</title>
+        <geoform>tabular digital data</geoform>
+        <pubinfo>
+          <pubplace>Anchorage, AK</pubplace>
+          <publish>U.S. Geological Survey, Alaska Science Center</publish>
+        </pubinfo>
+        <othercit>Suggested citation: Pagano, Anthony M., 2018, GPS Location Data from Female Polar Bears (Ursus maritimus) Instrumented in the Southern Beaufort Sea with Video Camera Collars equipped with Satellite-linked Transmitters by the USGS in April 2014-2016: U.S. Geological Survey data release, https://doi.org/10.5066/F7XW4H0P.</othercit>
+        <onlink>http://doi.org/10.5066/F7XW4H0P</onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin>USGS Alaska Science Center, Polar Bear Research Program</origin>
+            <pubdate>2013</pubdate>
+            <title>Changing Arctic Ecosystems: The effects of declining sea ice on polar bear behaviors and energetic rates</title>
+            <geoform>website</geoform>
+            <pubinfo>
+              <pubplace>Anchorage, AK</pubplace>
+              <publish>U.S. Geological Survey, Alaska Science Center</publish>
+            </pubinfo>
+            <onlink>https://alaska.usgs.gov/portal/project.php?project_id=379</onlink>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This dataset contains GPS locations collected by satellite-linked GPS receivers on collars attached to 9 female polar bears that were instrumented in the southern Beaufort Sea in April 2014-2016.</abstract>
+      <purpose>These data were collected to gain insights into the spring movement patterns of female polar bears without dependent young in the southern Beaufort Sea.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate>20140407</begdate>
+          <enddate>20160421</enddate>
+        </rngdates>
+      </timeinfo>
+      <current>ground condition</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <descgeog>southern Beaufort Sea</descgeog>
+      <bounding>
+        <westbc>-151.95</westbc>
+        <eastbc>-143</eastbc>
+        <northbc>71.65</northbc>
+        <southbc>70.37</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>biota</themekey>
+      </theme>
+      <theme>
+        <themekt>USGS Biocomplexity Thesaurus</themekt>
+        <themekey>Animals</themekey>
+        <themekey>Marine mammals</themekey>
+        <themekey>Locations</themekey>
+      </theme>
+      <theme>
+        <themekt>USGS Thesaurus</themekt>
+        <themekey>mammals</themekey>
+        <themekey>vertebrates</themekey>
+        <themekey>telemetry</themekey>
+      </theme>
+      <theme>
+        <themekt>NASA GCMD Earth Science Keywords Thesaurus</themekt>
+        <themekey>ANIMALS/VERTEBRATES</themekey>
+      </theme>
+      <theme>
+        <themekt>Integrated Taxonomic Information System</themekt>
+        <themekey>Ursus maritimus</themekey>
+      </theme>
+      <place>
+        <placekt>Geographic Names Information System</placekt>
+        <placekey>Alaska</placekey>
+        <placekey>southern Beaufort Sea</placekey>
+      </place>
+    </keywords>
+    <taxonomy>
+      <keywtax>
+        <taxonkt>None</taxonkt>
+        <taxonkey>single species</taxonkey>
+        <taxonkey>animals</taxonkey>
+        <taxonkey>vertebrates</taxonkey>
+        <taxonkey>mammals</taxonkey>
+      </keywtax>
+      <taxonsys>
+        <classsys>
+          <classcit>
+            <citeinfo>
+              <origin>Alfred L. Gardner</origin>
+              <origin>W. Christopher Wozencraft</origin>
+              <pubdate>Unpublished material</pubdate>
+              <title>Ursus maritimus  Phipps, 1774</title>
+              <geoform>profile</geoform>
+              <serinfo>
+                <sername>Integrated Taxonomic Classification System</sername>
+                <issue>180542</issue>
+              </serinfo>
+              <onlink>https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&amp;search_value=180542</onlink>
+            </citeinfo>
+          </classcit>
+        </classsys>
+        <taxonpro>none</taxonpro>
+      </taxonsys>
+      <taxoncl>
+        <taxonrn>Kingdom</taxonrn>
+        <taxonrv>Animalia</taxonrv>
+        <taxoncl>
+          <taxonrn>Phylum</taxonrn>
+          <taxonrv>Chordata</taxonrv>
+          <taxoncl>
+            <taxonrn>Class</taxonrn>
+            <taxonrv>Mammalia</taxonrv>
+            <taxoncl>
+              <taxonrn>Order</taxonrn>
+              <taxonrv>Carnivora</taxonrv>
+              <taxoncl>
+                <taxonrn>Family</taxonrn>
+                <taxonrv>Ursidae</taxonrv>
+                <taxoncl>
+                  <taxonrn>Genus</taxonrn>
+                  <taxonrv>Ursus</taxonrv>
+                  <taxoncl>
+                    <taxonrn>Species</taxonrn>
+                    <taxonrv>Ursus maritimus</taxonrv>
+                  </taxoncl>
+                </taxoncl>
+              </taxoncl>
+            </taxoncl>
+          </taxoncl>
+        </taxoncl>
+      </taxoncl>
+    </taxonomy>
+    <accconst>None.</accconst>
+    <useconst>For purposes of publication or dissemination, citations or credit should be given to the author and the U.S. Geological Survey, Alaska Science Center. 
+It is strongly recommended that careful attention be paid to the contents of the metadata file associated with these data to evaluate limitations, restrictions or intended use.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper>Pagano, Anthony M.</cntper>
+          <cntorg>U.S. Geological Survey, Alaska Science Center</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>Mailing and physical</addrtype>
+          <address>4210 University Drive</address>
+          <city>Anchorage</city>
+          <state>AK</state>
+          <postal>99508</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>907-786-7000</cntvoice>
+      </cntinfo>
+    </ptcontac>
+    <crossref>
+      <citeinfo>
+        <origin>Pagano, Anthony M.</origin>
+        <origin>Durner, George M.</origin>
+        <origin>Rode, Karyn D.</origin>
+        <origin>Atwood, Todd C.</origin>
+        <origin>Atkinson, Stephen N.</origin>
+        <origin>Peacock, Elizabeth</origin>
+        <origin>Costa, Daniel P.</origin>
+        <origin>Owen, Megan A.</origin>
+        <origin>Williams, Terrie M.</origin>
+        <pubdate>2018</pubdate>
+        <title>High-energy, high-fat lifestyle challenges an Arctic apex predator, the polar bear</title>
+        <geoform>journal article</geoform>
+        <pubinfo>
+          <pubplace>Washington, D.C.</pubplace>
+          <publish>Science</publish>
+        </pubinfo>
+        <othercit>Science  02 Feb 2018:
+Vol. 359, Issue 6375, pp. 568-572</othercit>
+        <onlink>https://doi.org/10.1126/science.aan8677</onlink>
+      </citeinfo>
+    </crossref>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>No formal attribute accuracy tests were conducted.</attraccr>
+    </attracc>
+    <logic>Not applicable.</logic>
+    <complete>Data set is considered complete for the information presented. Instances in which the GPS failed to record a fix are denoted by N/A.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>Transmitter locations were determined by the processing of the global positioning system onboard the transmitter with accuracy of &lt; 30 m.</horizpar>
+      </horizpa>
+      <vertacc>
+        <vertaccr>Not applicable.</vertaccr>
+      </vertacc>
+    </posacc>
+    <lineage>
+      <method>
+        <methtype>Field</methtype>
+        <methdesc>Receivers recorded global positioning system (GPS) location fixes every 5, 10, or 30 minutes and stored locations into internal memory before being uploaded upon collar recovery.</methdesc>
+        <methcite>
+          <citeinfo>
+            <origin>Tomkiewicz, S., M.R. Fuller, J.G. Kie, and K.K. Bates</origin>
+            <pubdate>2010</pubdate>
+            <title>Global positioning system and associated technologies in animal behaviour and ecological research</title>
+            <geoform>journal article</geoform>
+            <pubinfo>
+              <pubplace>London, England</pubplace>
+              <publish>Philosophical Transactions of the Royal Society B</publish>
+            </pubinfo>
+            <othercit>365:2163-2176</othercit>
+            <onlink>http://dx.doi.org/10.1098/rstb.2010.0090</onlink>
+          </citeinfo>
+        </methcite>
+      </method>
+      <procstep>
+        <procdesc>We collected GPS satellite telemetry locations from 9 female polar bears without dependent young in April 2014-2016.</procdesc>
+        <procdate>Unknown</procdate>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <indspref>southern Beaufort Sea</indspref>
+    <direct>Point</direct>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>0.0000001</latres>
+        <longres>0.0000001</longres>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>World Geodetic System of 1984</horizdn>
+        <ellips>World Geodetic System of 1984</ellips>
+        <semiaxis>6378137</semiaxis>
+        <denflat>298.257223563</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>PolarBear_GPS_data_southernBeaufortSea_2014_2016</enttypl>
+        <enttypd>GPS locations of 9 female polar bears in the southern Beaufort Sea in April 2014-2016</enttypd>
+        <enttypds>Author defined</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>Bear</attrlabl>
+        <attrdef>Sample identifier.</attrdef>
+        <attrdefs>Author defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>1</rdommin>
+            <rdommax>9</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Date</attrlabl>
+        <attrdef>The date (dd.mm.yyyy) the GPS location was obtained in Universal Coordinated Time (UTC).</attrdef>
+        <attrdefs>Author defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>07.04.2014</rdommin>
+            <rdommax>21.04.2016</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Time</attrlabl>
+        <attrdef>The time (hh:mm:ss) the GPS location was obtained in Universal Coordinated Time (UTC).</attrdef>
+        <attrdefs>Author defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>00:00:01</rdommin>
+            <rdommax>23:55:24</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Latitude</attrlabl>
+        <attrdef>The latitude measurement from a satellite-linked GPS receiver. N/A indicates the GPS failed to record a latitudinal fix.</attrdef>
+        <attrdefs>Author defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>70.37</rdommin>
+            <rdommax>71.65</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Longitude</attrlabl>
+        <attrdef>The longitude measurement from a satellite-linked GPS receiver. N/A indicates the GPS failed to record a longitudinal fix.</attrdef>
+        <attrdefs>Author defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-151.95</rdommin>
+            <rdommax>-143.00</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>U.S. Geological Survey, Alaska Science Center</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>Mailing and physical</addrtype>
+          <address>4210 University Drive</address>
+          <city>Anchorage</city>
+          <state>AK</state>
+          <postal>99508</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>907-786-7000</cntvoice>
+        <cntemail>ascweb@usgs.gov</cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc>Comma-separated values tabular data file.</resdesc>
+    <distliab>Although used by the U.S. Geological Survey, no warranty, expressed or implied, is made by the U.S. government as to the accuracy of the data nor shall the fact of distribution constitute any such warranty, and no responsibility is assumed by the USGS in connection therewith. 
+It is strongly recommended that the data described or contained herein be acquired directly from the U. S. Geological Survey and not indirectly through some other sources which may have changed the data in some way. 
+Any use of trade, firm or product names is for descriptive purposes only and does not imply endorsement by the U.S. Government.
+This disclaimer applies both to individual use of the data, and aggregate use with other data. These data files and any derived products are not legal documents and are not intended to be used as such.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>CSV</formname>
+          <formvern>None</formvern>
+          <filedec>Winzip</filedec>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>https://doi.org/10.5066/F7XW4H0P</networkr>
+              </networka>
+            </computer>
+            <accinstr>You will be prompted to open or save a zipped file. When you open, you will specify a location to unzip the files to.</accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20180104</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>U.S. Geological Survey Alaska Science Center</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>4210 University Drive</address>
+          <city>Anchorage</city>
+          <state>AK</state>
+          <postal>99508</postal>
+        </cntaddr>
+        <cntvoice>907-786-7000</cntvoice>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Biological Data Profile of the Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001.1-1999</metstdv>
+  </metainfo>
+</metadata>

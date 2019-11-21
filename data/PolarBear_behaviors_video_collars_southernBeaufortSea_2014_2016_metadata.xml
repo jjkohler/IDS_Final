@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Pagano, Anthony M. (ORCID:0000-0003-2176-0909)</origin>
+        <pubdate>2018</pubdate>
+        <title>Behavior Data from Female Polar Bears (Ursus maritimus) Instrumented in the Southern Beaufort Sea with Video Camera Collars by the USGS in April 2014-2016</title>
+        <geoform>tabular digital data</geoform>
+        <pubinfo>
+          <pubplace>Anchorage, AK</pubplace>
+          <publish>U.S. Geological Survey, Alaska Science Center</publish>
+        </pubinfo>
+        <othercit>Suggested citation: Pagano, Anthony M., 2018, Behavior Data from Female Polar Bears (Ursus maritimus) Instrumented in the Southern Beaufort Sea with Video Camera Collars by the USGS in April 2014-2016: U.S. Geological Survey data release, https://doi.org/10.5066/F7XW4H0P.</othercit>
+        <onlink>https://doi.org/10.5066/F7XW4H0P</onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin>USGS Alaska Science Center, Polar Bear Research Program</origin>
+            <pubdate>2013</pubdate>
+            <title>Changing Arctic Ecosystems: The effects of declining sea ice on polar bear behaviors and energetic rates</title>
+            <geoform>website</geoform>
+            <pubinfo>
+              <pubplace>Anchorage, AK</pubplace>
+              <publish>U.S. Geological Survey, Alaska Science Center</publish>
+            </pubinfo>
+            <onlink>https://alaska.usgs.gov/portal/project.php?project_id=379</onlink>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This dataset contains time-linked behavior data derived from video camera collars on southern Beaufort Sea polar bears. Nine solitary female polar bears were equipped with video-camera collars (Exeye, LLC., Bristow, VA) for 8 - 11 days in April, 2014-2016.</abstract>
+      <purpose>These data were collected to gain insights into the spring activity and foraging success rates of female polar bears without dependent young in the southern Beaufort Sea.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate>20140407</begdate>
+          <enddate>20160421</enddate>
+        </rngdates>
+      </timeinfo>
+      <current>ground condition</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <descgeog>southern Beaufort Sea</descgeog>
+      <bounding>
+        <westbc>-161.47</westbc>
+        <eastbc>-141.00</eastbc>
+        <northbc>72.60</northbc>
+        <southbc>70.30</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>biota</themekey>
+      </theme>
+      <theme>
+        <themekt>USGS Biocomplexity Thesaurus</themekt>
+        <themekey>Animals</themekey>
+        <themekey>Marine mammals</themekey>
+        <themekey>Behavior</themekey>
+        <themekey>Physical activity</themekey>
+      </theme>
+      <theme>
+        <themekt>None</themekt>
+        <themekey>Video Camera Collar</themekey>
+      </theme>
+      <theme>
+        <themekt>NASA GCMD Earth Science Keywords Thesaurus</themekt>
+        <themekey>ANIMALS/VERTEBRATES</themekey>
+      </theme>
+      <theme>
+        <themekt>USGS Thesaurus</themekt>
+        <themekey>mammals</themekey>
+        <themekey>vertebrates</themekey>
+      </theme>
+      <theme>
+        <themekt>Integrated Taxonomic Information System</themekt>
+        <themekey>Ursus maritimus</themekey>
+      </theme>
+      <place>
+        <placekt>Geographic Names Information System</placekt>
+        <placekey>Alaska</placekey>
+        <placekey>southern Beaufort Sea</placekey>
+      </place>
+    </keywords>
+    <taxonomy>
+      <keywtax>
+        <taxonkt>None</taxonkt>
+        <taxonkey>single species</taxonkey>
+        <taxonkey>animals</taxonkey>
+        <taxonkey>vertebrates</taxonkey>
+        <taxonkey>mammals</taxonkey>
+      </keywtax>
+      <taxonsys>
+        <classsys>
+          <classcit>
+            <citeinfo>
+              <origin>Alfred L. Gardner</origin>
+              <origin>W. Christopher Wozencraft</origin>
+              <pubdate>Unpublished material</pubdate>
+              <title>Ursus maritimus  Phipps, 1774</title>
+              <geoform>profile</geoform>
+              <serinfo>
+                <sername>Integrated Taxonomic Classification System</sername>
+                <issue>180542</issue>
+              </serinfo>
+              <onlink>https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&amp;search_value=180542</onlink>
+            </citeinfo>
+          </classcit>
+        </classsys>
+        <taxonpro>none</taxonpro>
+      </taxonsys>
+      <taxoncl>
+        <taxonrn>Kingdom</taxonrn>
+        <taxonrv>Animalia</taxonrv>
+        <taxoncl>
+          <taxonrn>Phylum</taxonrn>
+          <taxonrv>Chordata</taxonrv>
+          <taxoncl>
+            <taxonrn>Class</taxonrn>
+            <taxonrv>Mammalia</taxonrv>
+            <taxoncl>
+              <taxonrn>Order</taxonrn>
+              <taxonrv>Carnivora</taxonrv>
+              <taxoncl>
+                <taxonrn>Family</taxonrn>
+                <taxonrv>Ursidae</taxonrv>
+                <taxoncl>
+                  <taxonrn>Genus</taxonrn>
+                  <taxonrv>Ursus</taxonrv>
+                  <taxoncl>
+                    <taxonrn>Species</taxonrn>
+                    <taxonrv>Ursus maritimus</taxonrv>
+                  </taxoncl>
+                </taxoncl>
+              </taxoncl>
+            </taxoncl>
+          </taxoncl>
+        </taxoncl>
+      </taxoncl>
+    </taxonomy>
+    <accconst>None.</accconst>
+    <useconst>For purposes of publication or dissemination, citations or credit should be given to the author and the U.S. Geological Survey, Alaska Science Center. 
+It is strongly recommended that careful attention be paid to the contents of the metadata file associated with these data to evaluate limitations, restrictions or intended use.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper>Pagano, Anthony M.</cntper>
+          <cntorg>U.S. Geological Survey, Alaska Science Center</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>Mailing and physical</addrtype>
+          <address>4210 University Drive</address>
+          <city>Anchorage</city>
+          <state>AK</state>
+          <postal>99508</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>907-786-7000</cntvoice>
+      </cntinfo>
+    </ptcontac>
+    <datacred>Pagano, Anthony M. (U.S. Geological Survey)</datacred>
+    <crossref>
+      <citeinfo>
+        <origin>Pagano, Anthony M.</origin>
+        <origin>Durner, George M.</origin>
+        <origin>Rode, Karyn D.</origin>
+        <origin>Atwood, Todd C.</origin>
+        <origin>Atkinson, Stephen N.</origin>
+        <origin>Peacock, Elizabeth</origin>
+        <origin>Costa, Daniel P.</origin>
+        <origin>Owen, Megan A.</origin>
+        <origin>Williams, Terrie M.</origin>
+        <pubdate>2018</pubdate>
+        <title>High-energy, high-fat lifestyle challenges an Arctic apex predator, the polar bear</title>
+        <geoform>journal article</geoform>
+        <pubinfo>
+          <pubplace>Washington, D.C.</pubplace>
+          <publish>Science</publish>
+        </pubinfo>
+        <othercit>Science  02 Feb 2018:
+Vol. 359, Issue 6375, pp. 568-572</othercit>
+        <onlink>https://doi.org/10.1126/science.aan8677</onlink>
+      </citeinfo>
+    </crossref>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>No formal attribute accuracy tests were conducted.</attraccr>
+    </attracc>
+    <logic>Not applicable.</logic>
+    <complete>A description of behavior discrimination can be found in the companion manuscript for this dataset. Data set is considered complete for the information presented.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>Not applicable.</horizpar>
+      </horizpa>
+      <vertacc>
+        <vertaccr>Not applicable.</vertaccr>
+      </vertacc>
+    </posacc>
+    <lineage>
+      <method>
+        <methtype>Field</methtype>
+        <methdesc>In 2014, 4 video cameras recorded for 1 min every 2 min between 4 pm and 9 pm (UTC) and for 30 sec every 2 min between 9 pm and 5 am (UTC). In 2015, 1 video camera recorded for 1 min every 2 min between 4 pm and 9 pm (UTC) and for 30 sec every 2 min between 9 pm and 6 am (UTC) and 2 video cameras recorded for 1 min every 2 min between 4 pm and 12 am (UTC) and for 30 sec every 2 min between 12 am and 6 am (UTC). In 2016, 2 video cameras recorded for 1 min every 2 min between 4 pm and 6 am (UTC). All 9 video cameras were programmed to turn off if the temperature of the collar was ≤ -17 °C to protect video equipment.</methdesc>
+        <methcite>
+          <citeinfo>
+            <origin>Pagano, A. M., K. D. Rode, A. Cutting, M. A.  Owen, S. Jensen, J. V. Ware, C. T. Robbins, G. M. Durner, T. C. Atwood, M. E. Obbard, K. R. Middel, G. W. Thiemann, and T. M. Williams</origin>
+            <pubdate>2017</pubdate>
+            <title>Using tri-axial accelerometers to remotely identify wild polar bear behaviors</title>
+            <geoform>journal article</geoform>
+            <pubinfo>
+              <pubplace>London, England</pubplace>
+              <publish>Endangered Species Research</publish>
+            </pubinfo>
+            <othercit>32:19-33</othercit>
+            <onlink>http://doi:10.3354/esr00779</onlink>
+          </citeinfo>
+        </methcite>
+      </method>
+      <procstep>
+        <procdesc>We collected video data from 9 female polar bears of the southern Beaufort Sea in April 2014-2016 over 8-11 days. Video collars recorded a total per bear of 14 - 58 hours of video while on bears.</procdesc>
+        <procdate>Unknown</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>Behaviors and the times in which they began and ended were annotated based on time-stamped videos recorded via the video camera collar. Behaviors in 2014 were discriminated at 30 second/1 minute resolutions. Behaviors in 2015 and 2016 were dicriminated at 1 second resolutions.</procdesc>
+        <procdate>Unknown</procdate>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <indspref>southern Beaufort Sea</indspref>
+    <direct>Point</direct>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>0.001</latres>
+        <longres>0.001</longres>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>World Geodetic System of 1984</horizdn>
+        <ellips>World Geodetic System of 1984</ellips>
+        <semiaxis>6378137</semiaxis>
+        <denflat>298.257223563</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>PolarBear_video-derived_behaviors_southernBeaufortSea_2014_2016</enttypl>
+        <enttypd>Behavior data derived from video camera collars from 9 polar bears in the southern Beaufort Sea in April, 2014-2016</enttypd>
+        <enttypds>Author defined</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>Bear</attrlabl>
+        <attrdef>Sample identifier.</attrdef>
+        <attrdefs>Author defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>1</rdommin>
+            <rdommax>9</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Datetime_behavior_starts</attrlabl>
+        <attrdef>The date time (mm/dd/yyyy hh:mm:ss) the behavior began in Universal Coordinated Time (UTC).</attrdef>
+        <attrdefs>Author defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>4/07/2014 16:00:22</rdommin>
+            <rdommax>4/21/2016 03:48:29</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Datetime_behavior_ends</attrlabl>
+        <attrdef>The date time (mm/dd/yyyy hh:mm:ss) the behavior completed in Universal Coordinated Time (UTC).</attrdef>
+        <attrdefs>Author defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>4/07/2014 16:01:12</rdommin>
+            <rdommax>4/21/2016 03:48:53</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Behavior</attrlabl>
+        <attrdef>Range of actions exhbited by female polar bears.</attrdef>
+        <attrdefs>Author defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>adjusting</edomv>
+            <edomvd>Bear transitioning between behaviors</edomvd>
+            <edomvds>Author defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>biting seal</edomv>
+            <edomvd>Bear biting at a live seal to kill it.</edomvd>
+            <edomvds>Author defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>breaking into lair</edomv>
+            <edomvd>Bear jumping on the snow pack covering a seal lair to create an access point.</edomvd>
+            <edomvds>Author defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>breeding</edomv>
+            <edomvd>Bear in the act of breeding with an adult male polar bear.</edomvd>
+            <edomvds>Author defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>carrying carcass</edomv>
+            <edomvd>Bear moving a seal carcass.</edomvd>
+            <edomvds>Author defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>catches seal</edomv>
+            <edomvd>Bear successfully catches a seal.</edomvd>
+            <edomvds>Author defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>crawling through ice cavern</edomv>
+            <edomvd>Bear crawling through small ice cave.</edomvd>
+            <edomvds>Author defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>digging</edomv>
+            <edomvd>Bear digging in the snow or ice.</edomvd>
+            <edomvds>Author defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>eating</edomv>
+            <edomvd>Bear eating food (e.g., seal, whale carcass, etc.).</edomvd>
+            <edomvds>Author defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>eating snow</edomv>
+            <edomvd>Bear eating the snow.</edomvd>
+            <edomvds>Author defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>grooming</edomv>
+            <edomvd>Bear grooming.</edomvd>
+            <edomvds>Author defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>hauling out of water</edomv>
+            <edomvd>Bear climbing out of the water.</edomvd>
+            <edomvds>Author defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>head shake</edomv>
+            <edomvd>Bear shaking head.</edomvd>
+            <edomvds>Author defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>interacting</edomv>
+            <edomvd>Bear interacting with another bear.</edomvd>
+            <edomvds>Author defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>jumping</edomv>
+            <edomvd>Bear jumping.</edomvd>
+            <edomvds>Author defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>laying</edomv>
+            <edomvd>Bear lying down.</edomvd>
+            <edomvds>Author defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>mixed</edomv>
+            <edomvd>Bear performing multiple behaviors at once. No dominant behavior.</edomvd>
+            <edomvds>Author defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>moving ice</edomv>
+            <edomvd>Bear moving blocks of ice from one location to another.</edomvd>
+            <edomvds>Author defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>pouncing</edomv>
+            <edomvd>Bear pouncing on the ice or into the water. Often in an attempt to catch a seal.</edomvd>
+            <edomvds>Author defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>rolling in snow</edomv>
+            <edomvd>Bear rolling in the snow.</edomvd>
+            <edomvds>Author defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>rubbing</edomv>
+            <edomvd>Bear rubbing against a block of ice or against the snow while standing or sitting.</edomvd>
+            <edomvds>Author defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>running</edomv>
+            <edomvd>Bear running.</edomvd>
+            <edomvds>Author defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>running and walking</edomv>
+            <edomvd>Bear running and walking.</edomvd>
+            <edomvds>Author defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>sitting or laying</edomv>
+            <edomvd>Bear either sitting down or lying down.</edomvd>
+            <edomvds>Author defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>sitting or standing</edomv>
+            <edomvd>Bear either sitting down or standing.</edomvd>
+            <edomvds>Author defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>smelling snow</edomv>
+            <edomvd>Bear smelling the snow.</edomvd>
+            <edomvds>Author defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>standing</edomv>
+            <edomvd>Bear standing.</edomvd>
+            <edomvds>Author defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>standing up</edomv>
+            <edomvd>Bear standing up on two legs.</edomvd>
+            <edomvds>Author defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>sticking head into water</edomv>
+            <edomvd>Bear sticking its head into the water.</edomvd>
+            <edomvds>Author defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>sticking head out of water</edomv>
+            <edomvd>Bear sticking its head out of the water.</edomvd>
+            <edomvds>Author defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>swimming</edomv>
+            <edomvd>Bear swimming in the water.</edomvd>
+            <edomvds>Author defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>unknown</edomv>
+            <edomvd>Unknown behavior. Lens likely obscured.</edomvd>
+            <edomvds>Author defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>walking</edomv>
+            <edomvd>Bear walking.</edomvd>
+            <edomvds>Author defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Comments</attrlabl>
+        <attrdef>Miscellaneous comments related to the behavior.</attrdef>
+        <attrdefs>Author defined</attrdefs>
+        <attrdomv>
+          <udom>none</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>U.S. Geological Survey, Alaska Science Center</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>Mailing and physical</addrtype>
+          <address>4210 University Drive</address>
+          <city>Anchorage</city>
+          <state>AK</state>
+          <postal>99508</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>907-786-7000</cntvoice>
+        <cntemail>ascweb@usgs.gov</cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc>Comma-separated values tabular data file.</resdesc>
+    <distliab>Although used by the U.S. Geological Survey, no warranty, expressed or implied, is made by the U.S. government as to the accuracy of the data nor shall the fact of distribution constitute any such warranty, and no responsibility is assumed by the USGS in connection therewith. 
+It is strongly recommended that the data described or contained herein be acquired directly from the U. S. Geological Survey and not indirectly through some other sources which may have changed the data in some way. 
+Any use of trade, firm or product names is for descriptive purposes only and does not imply endorsement by the U.S. Government.
+This disclaimer applies both to individual use of the data, and aggregate use with other data. These data files and any derived products are not legal documents and are not intended to be used as such.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>CSV</formname>
+          <formvern>None</formvern>
+          <filedec>Winzip</filedec>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>https://doi.org/10.5066/F7XW4H0P</networkr>
+              </networka>
+            </computer>
+            <accinstr>You will be prompted to open or save a zipped file. When you open, you will specify a location to unzip the files to.</accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20180104</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>U.S. Geological Survey Alaska Science Center</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>4210 University Drive</address>
+          <city>Anchorage</city>
+          <state>AK</state>
+          <postal>99508</postal>
+        </cntaddr>
+        <cntvoice>907-786-7000</cntvoice>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Biological Data Profile of the Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001.1-1999</metstdv>
+  </metainfo>
+</metadata>

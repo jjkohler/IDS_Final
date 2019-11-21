@@ -1,0 +1,713 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Pagano, Anthony M. (ORCID:0000-0003-2176-0909)</origin>
+        <pubdate>2018</pubdate>
+        <title>Doubly-labeled Water, Deuterium Dilution, Body Mass, and Blood Biochemistry Data from Female Polar Bears (Ursus maritimus) in the Southern Beaufort Sea by the USGS in April 2014-2016</title>
+        <geoform>tabular digital data</geoform>
+        <pubinfo>
+          <pubplace>Anchorage, AK</pubplace>
+          <publish>U.S. Geological Survey, Alaska Science Center</publish>
+        </pubinfo>
+        <othercit>Suggested citation: Pagano, Anthony M., 2018, Doubly-labeled Water, Deuterium Dilution, Body Mass, and Blood Biochemistry Data from Female Polar Bears (Ursus maritimus) in the Southern Beaufort Sea by the USGS in April 2014-2016: U.S. Geological Survey data release, https://doi.org/10.5066/F7XW4H0P.</othercit>
+        <onlink>https://doi.org/10.5066/F7XW4H0P</onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin>USGS Alaska Science Center, Polar Bear Research Program</origin>
+            <pubdate>2013</pubdate>
+            <title>Changing Arctic Ecosystems: The effects of declining sea ice on polar bear behaviors and energetic rates</title>
+            <geoform>website</geoform>
+            <pubinfo>
+              <pubplace>Anchorage, AK</pubplace>
+              <publish>U.S. Geological Survey, Alaska Science Center</publish>
+            </pubinfo>
+            <onlink>https://alaska.usgs.gov/portal/project.php?project_id=379</onlink>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This dataset contains specific activity measures of deuterium oxide and oxygen-18, body mass, and blood biochemistry (blood urea nitrogen and creatinine) data for 9 female polar bears without dependent young in the southern Beaufort Sea in April 2014-2016.</abstract>
+      <purpose>These data were collected to gain insights into the spring field metabolic rate, body composition, and feeding success of female polar bears without dependent young in the  southern Beaufort Sea.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate>20140407</begdate>
+          <enddate>20160421</enddate>
+        </rngdates>
+      </timeinfo>
+      <current>ground condition</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <descgeog>southern Beaufort Sea</descgeog>
+      <bounding>
+        <westbc>-161.47</westbc>
+        <eastbc>-141.00</eastbc>
+        <northbc>72.60</northbc>
+        <southbc>70.30</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>biota</themekey>
+      </theme>
+      <theme>
+        <themekt>USGS Biocomplexity Thesaurus</themekt>
+        <themekey>Animals</themekey>
+        <themekey>Marine mammals</themekey>
+        <themekey>Metabolism</themekey>
+        <themekey>Bioenergetics</themekey>
+      </theme>
+      <theme>
+        <themekt>NASA GCMD Earth Science Keywords Thesaurus</themekt>
+        <themekey>ANIMALS/VERTEBRATES</themekey>
+      </theme>
+      <theme>
+        <themekt>USGS Thesaurus</themekt>
+        <themekey>mammals</themekey>
+        <themekey>vertebrates</themekey>
+      </theme>
+      <theme>
+        <themekt>Integrated Taxonomic Information System</themekt>
+        <themekey>Ursus maritimus</themekey>
+      </theme>
+      <place>
+        <placekt>Geographic Names Information System</placekt>
+        <placekey>Alaska</placekey>
+        <placekey>southern Beaufort Sea</placekey>
+      </place>
+    </keywords>
+    <taxonomy>
+      <keywtax>
+        <taxonkt>None</taxonkt>
+        <taxonkey>single species</taxonkey>
+        <taxonkey>animals</taxonkey>
+        <taxonkey>vertebrates</taxonkey>
+        <taxonkey>mammals</taxonkey>
+      </keywtax>
+      <taxonsys>
+        <classsys>
+          <classcit>
+            <citeinfo>
+              <origin>Alfred L. Gardner</origin>
+              <origin>W. Christopher Wozencraft</origin>
+              <pubdate>Unpublished material</pubdate>
+              <title>Ursus maritimus  Phipps, 1774</title>
+              <geoform>profile</geoform>
+              <serinfo>
+                <sername>Integrated Taxonomic Classification System</sername>
+                <issue>180542</issue>
+              </serinfo>
+              <onlink>https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&amp;search_value=180542</onlink>
+            </citeinfo>
+          </classcit>
+        </classsys>
+        <taxonpro>none</taxonpro>
+      </taxonsys>
+      <taxoncl>
+        <taxonrn>Kingdom</taxonrn>
+        <taxonrv>Animalia</taxonrv>
+        <taxoncl>
+          <taxonrn>Phylum</taxonrn>
+          <taxonrv>Chordata</taxonrv>
+          <taxoncl>
+            <taxonrn>Class</taxonrn>
+            <taxonrv>Mammalia</taxonrv>
+            <taxoncl>
+              <taxonrn>Order</taxonrn>
+              <taxonrv>Carnivora</taxonrv>
+              <taxoncl>
+                <taxonrn>Family</taxonrn>
+                <taxonrv>Ursidae</taxonrv>
+                <taxoncl>
+                  <taxonrn>Genus</taxonrn>
+                  <taxonrv>Ursus</taxonrv>
+                  <taxoncl>
+                    <taxonrn>Species</taxonrn>
+                    <taxonrv>Ursus maritimus</taxonrv>
+                  </taxoncl>
+                </taxoncl>
+              </taxoncl>
+            </taxoncl>
+          </taxoncl>
+        </taxoncl>
+      </taxoncl>
+    </taxonomy>
+    <accconst>None.</accconst>
+    <useconst>For purposes of publication or dissemination, citations or credit should be given to the author and the U.S. Geological Survey, Alaska Science Center. 
+It is strongly recommended that careful attention be paid to the contents of the metadata file associated with these data to evaluate limitations, restrictions or intended use.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper>Pagano, Anthony M.</cntper>
+          <cntorg>U.S. Geological Survey, Alaska Science Center</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>Mailing and physical</addrtype>
+          <address>4210 University Drive</address>
+          <city>Anchorage</city>
+          <state>AK</state>
+          <postal>99508</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>907-786-7000</cntvoice>
+      </cntinfo>
+    </ptcontac>
+    <crossref>
+      <citeinfo>
+        <origin>Pagano, Anthony M.</origin>
+        <origin>Durner, George M.</origin>
+        <origin>Rode, Karyn D.</origin>
+        <origin>Atwood, Todd C.</origin>
+        <origin>Atkinson, Stephen N.</origin>
+        <origin>Peacock, Elizabeth</origin>
+        <origin>Costa, Daniel P.</origin>
+        <origin>Owen, Megan A.</origin>
+        <origin>Williams, Terrie M.</origin>
+        <pubdate>2018</pubdate>
+        <title>High-energy, high-fat lifestyle challenges an Arctic apex predator, the polar bear</title>
+        <geoform>journal article</geoform>
+        <pubinfo>
+          <pubplace>Washington, D.C.</pubplace>
+          <publish>Science</publish>
+        </pubinfo>
+        <othercit>Science  02 Feb 2018:
+Vol. 359, Issue 6375, pp. 568-572</othercit>
+        <onlink>https://doi.org/10.1126/science.aan8677</onlink>
+      </citeinfo>
+    </crossref>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>Measures of specific activity were made by Metabolic Solutions, Inc. (Nashua, NH, USA).</attraccr>
+    </attracc>
+    <logic>Not applicable.</logic>
+    <complete>Data set is considered complete for the information presented. Bears in 2015 and 2016 were dosed with deuterium oxide at recapture. Bears in 2014 were not dosed with deuterium oxide at recapture.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>Not applicable.</horizpar>
+      </horizpa>
+      <vertacc>
+        <vertaccr>Not applicable.</vertaccr>
+      </vertacc>
+    </posacc>
+    <lineage>
+      <method>
+        <methtype>Lab</methtype>
+        <methdesc>Specific activity of deuterium oxide and oxygen-18 in serum samples collected from 9 female polar bears without dependent young captured in April 2014-2016 were measured by Metabolic Solutions, Inc. (Nashua, NH).</methdesc>
+        <methcite>
+          <citeinfo>
+            <origin>Thorsen, T., T. Shriver, N. Racine, B.A. Richman, and D. A. Schoeller</origin>
+            <pubdate>2011</pubdate>
+            <title>Doubly labeled water analysis using cavity ring-down spectroscopy</title>
+            <geoform>journal article</geoform>
+            <pubinfo>
+              <pubplace>Malden, MA</pubplace>
+              <publish>Rapid Communications in Mass Spectrometry</publish>
+            </pubinfo>
+            <othercit>1:3-8</othercit>
+            <onlink>http://dx.doi.org/10.1002/rcm.4795</onlink>
+          </citeinfo>
+        </methcite>
+      </method>
+      <method>
+        <methtype>Lab</methtype>
+        <methdesc>Clinical serum chemistry parameters of blood urea nitrogen and creatinine were measured from 9 female polar bears without dependent young captured in April 2014-2016.</methdesc>
+        <methcite>
+          <citeinfo>
+            <origin>Norberg, S.E., V.N. Burkanov, and R.D. Andrews</origin>
+            <pubdate>2009</pubdate>
+            <title>Serum chemistry values of free-ranging, lactating northern fur seals (Callorhinus ursinus)</title>
+            <geoform>journal article</geoform>
+            <pubinfo>
+              <pubplace>Lawrence, KS</pubplace>
+              <publish>Journal of Wildlife Diseases</publish>
+            </pubinfo>
+            <othercit>45:843-848</othercit>
+            <onlink>http://dx.doi.org/10.7589/0090-3558-45.3.843</onlink>
+          </citeinfo>
+        </methcite>
+      </method>
+      <method>
+        <methtype>Lab</methtype>
+        <methdesc>Bears that had not been previously captured were aged based on counts of cementum annuli from an extracted vestigial premolar.</methdesc>
+        <methcite>
+          <citeinfo>
+            <origin>Calvert, W., M.A. Ramsay</origin>
+            <pubdate>1998</pubdate>
+            <title>Evaluation of age determination of polar bears by counts of cementum growth layer groups</title>
+            <geoform>journal article</geoform>
+            <pubinfo>
+              <pubplace>USA</pubplace>
+              <publish>Ursus</publish>
+            </pubinfo>
+            <othercit>10:449-453</othercit>
+          </citeinfo>
+        </methcite>
+      </method>
+      <procstep>
+        <procdesc>To measure the specific activity of deuterium oxide and oxygen-18 in serum samples, we immobilized 9 female polar bears without dependent young. Following immobilization, we inserted an external jugular catheter to facilitate blood sampling and administration of isotopes. An initial blood sample was collected to serve as a baseline measure of 18O (oxygen-18) and 2H (deuterium). The bear was then injected intravenously with a precisely weighed dose containing 0.12 – 0.25 g/kg of 97% enriched 18O (Isoflex USA, San Francisco, CA) and 0.06 – 0.10 g/kg of 99.9% enriched 2H (Isotec, Inc., Miamisburg, OH or Cambridge Isotope Laboratories, Inc., Tewksbury, MA) with NaCl added to make it 0.9% isotonic and sterilized using a 0.2 µ Millipore filter. On injection, the syringe was back washed with blood three times to ensure all the DLW had been injected into the bear. The bear was kept immobilized for 2 hours after the injection of DLW to allow isotope equilibration. We collected serial blood samples 60, 90, and 120 minutes after dosing. We recaptured bears 8 – 11 days later to obtain a blood sample to measure final enrichment. At recapture, we weighed bears to measure changes in body mass. In 2015 and 2016, we dosed recaptured bears with 0.09 – 0.14 g/kg of 99.9% enriched deuterated water (D2O, Cambridge Isotope Laboratories, Inc.) and collected serial blood samples 60 and 90 minutes after dosing to measure changes in body composition between captures. Blood was collected in 10 ml glass evacuated tubes without anticoagulants (Serum Vacutainer, Becton Dickinson, Franklin Lakes, NJ) and centrifuged to separate serum from red blood cells. Serum was stored frozen in 2 ml cryogenic vials (Corning, Inc., Corning, NY) at -20°C until analysis.</procdesc>
+        <procdate>Unknown</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>Serum samples were analyzed for the concentrations of 18O and 2H by Metabolic Solutions, Inc. (Nashua, NH).</procdesc>
+        <procdate>Unknown</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>To obtain blood urea nitrogen and creatinine concentrations, serum samples from capture and recapture were analyzed using an Abaxis Vetscan VS2 chemistry analyzer (Abaxis, Inc., Union City, CA). Each sample was analyzed twice with the exception of bears 8 and 9 whose samples were only analyzed once.</procdesc>
+        <procdate>Unknown</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>Age was determined by counts of cementum annuli from an extracted vestigial premolar by C-D &amp; Associates Biological Consulting (Spruce Grove, AB, Canada).</procdesc>
+        <procdate>Unknown</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>We measured total body mass at each capture using an electronic load cell suspended
+from an aluminum tripod.</procdesc>
+        <procdate>Unknown</procdate>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <indspref>southern Beaufort Sea</indspref>
+    <direct>Point</direct>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>0.001</latres>
+        <longres>0.001</longres>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>World Geodetic System of 1984</horizdn>
+        <ellips>World Geodetic System of 1984</ellips>
+        <semiaxis>6378137</semiaxis>
+        <denflat>298.257223563</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>PolarBear_doubly-labeled_water_and_blood_biochemistry_southernBeaufortSea_2014_2016</enttypl>
+        <enttypd>Metabolic rate, body composition, and blood biochemistry from 9 female polar bears in the southern Beaufort Sea in April 2014-2016.</enttypd>
+        <enttypds>Author defined</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>Bear</attrlabl>
+        <attrdef>Sample identifier.</attrdef>
+        <attrdefs>Author defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>1</rdommin>
+            <rdommax>9</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Capture_Recapture</attrlabl>
+        <attrdef>Data are from the animal's first capture or from a subsequent recapture.</attrdef>
+        <attrdefs>Author defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>1</edomv>
+            <edomvd>Capture</edomvd>
+            <edomvds>Author defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>2</edomv>
+            <edomvd>Recapture</edomvd>
+            <edomvds>Author defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Age</attrlabl>
+        <attrdef>The age of the bear in years.</attrdef>
+        <attrdefs>Author defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>3</rdommin>
+            <rdommax>22</rdommax>
+            <attrunit>years.</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>TBM</attrlabl>
+        <attrdef>Total body mass of the bear in kg.</attrdef>
+        <attrdefs>Author defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>126.55</rdommin>
+            <rdommax>220.45</rdommax>
+            <attrunit>kg.</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Dosage_Datetime</attrlabl>
+        <attrdef>Date time (mmm dd, yyyy hh:mm) isotopes were injected into the bear in Universal Coordinated Time (UTC).</attrdef>
+        <attrdefs>Author defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>Apr 07, 2014 03:11</rdommin>
+            <rdommax>Apr 21, 2016 18:23</rdommax>
+            <attrunit>UTC.</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Final_Enrichment_Datetime</attrlabl>
+        <attrdef>Date time (mmm dd, yyyy hh:mm) final enrichment of isotopes were measured from the bear via a blood sample in Universal Coordinated Time (UTC).</attrdef>
+        <attrdefs>Author defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>Apr 14, 2014 19:26</rdommin>
+            <rdommax>Apr 21, 2016 18:20</rdommax>
+            <attrunit>UTC.</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Background_enrichment_D2O</attrlabl>
+        <attrdef>Background concentration of deuterium oxide in the bear as a delta relative to the Vienna Standard Mean Ocean Water (V-SMOW).</attrdef>
+        <attrdefs>Author defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-149.48</rdommin>
+            <rdommax>893.68</rdommax>
+            <attrunit>Delta vs V-SMOW.</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Background_enrichment_18O</attrlabl>
+        <attrdef>Background concentration of oxygen-18 in the bear as a delta relative to the Vienna Standard Mean Ocean Water (V-SMOW).</attrdef>
+        <attrdefs>Author defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-15.79</rdommin>
+            <rdommax>-11.89</rdommax>
+            <attrunit>Delta vs V-SMOW.</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>60min_enrichment_D2O</attrlabl>
+        <attrdef>Concentration of deuterium oxide in the bear 60 minutes after injection as a delta relative to the Vienna Standard Mean Ocean Water (V-SMOW).</attrdef>
+        <attrdefs>Author defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>543.08</rdommin>
+            <rdommax>2374.62</rdommax>
+            <attrunit>Delta vs V-SMOW.</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>60min_enrichment_18O</attrlabl>
+        <attrdef>Concentration of oxygen-18 in the bear 60 minutes after injection as a delta relative to the Vienna Standard Mean Ocean Water (V-SMOW).</attrdef>
+        <attrdefs>Author defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>88.01</rdommin>
+            <rdommax>205.21</rdommax>
+            <attrunit>Delta vs V-SMOW.</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>90min_enrichment_D2O</attrlabl>
+        <attrdef>Concentration of deuterium oxide in the bear 90 minutes after injection as a delta relative to the Vienna Standard Mean Ocean Water (V-SMOW).</attrdef>
+        <attrdefs>Author defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>521.36</rdommin>
+            <rdommax>2373.29</rdommax>
+            <attrunit>Delta vs V-SMOW.</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>90min_enrichment_18O</attrlabl>
+        <attrdef>Concentration of oxygen-18 in the bear 90 minutes after injection as a delta relative to the Vienna Standard Mean Ocean Water (V-SMOW).</attrdef>
+        <attrdefs>Author defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>86.19</rdommin>
+            <rdommax>204.66</rdommax>
+            <attrunit>Delta vs V-SMOW.</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>120min_enrichment_D2O</attrlabl>
+        <attrdef>Concentration of deuterium oxide in the bear 120 minutes after injection as a delta relative to the Vienna Standard Mean Ocean Water (V-SMOW).</attrdef>
+        <attrdefs>Author defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>513.41</rdommin>
+            <rdommax>1266.27</rdommax>
+            <attrunit>Delta vs V-SMOW.</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>120min_enrichment_18O</attrlabl>
+        <attrdef>Concentration of oxygen-18 in the bear 120 minutes after injection as a delta relative to the Vienna Standard Mean Ocean Water (V-SMOW).</attrdef>
+        <attrdefs>Author defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>85.84</rdommin>
+            <rdommax>203.64</rdommax>
+            <attrunit>Delta vs V-SMOW.</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Final_enrichment_D2O</attrlabl>
+        <attrdef>Concentration of deuterium oxide in the bear at final enrichment as a delta relative to the Vienna Standard Mean Ocean Water (V-SMOW).</attrdef>
+        <attrdefs>Author defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>168.14</rdommin>
+            <rdommax>893.68</rdommax>
+            <attrunit>Delta vs V-SMOW.</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Final_enrichment_18O</attrlabl>
+        <attrdef>Concentration of oxygen-18 in the bear at final enrichment as a delta relative to the Vienna Standard Mean Ocean Water (V-SMOW).</attrdef>
+        <attrdefs>Author defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>15.73</rdommin>
+            <rdommax>106.15</rdommax>
+            <attrunit>Delta vs V-SMOW.</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Injectate_enrichment_D2O</attrlabl>
+        <attrdef>Concentration of deuterium oxide injected into the bear as a delta relative to the Vienna Standard Mean Ocean Water (V-SMOW).</attrdef>
+        <attrdefs>Author defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>1670.71</rdommin>
+            <rdommax>3114.21</rdommax>
+            <attrunit>Delta vs V-SMOW.</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Injectate_enrichment_18O</attrlabl>
+        <attrdef>Concentration of oxygen-18 injected into the bear as a delta relative to the Vienna Standard Mean Ocean Water (V-SMOW).</attrdef>
+        <attrdefs>Author defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>242.57</rdommin>
+            <rdommax>336.19</rdommax>
+            <attrunit>Delta vs V-SMOW.</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Tap_enrichment_D2O</attrlabl>
+        <attrdef>Concentration of deuterium oxide in a control sample of tap-water as a delta relative to the Vienna Standard Mean Ocean Water (V-SMOW).</attrdef>
+        <attrdefs>Author defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-70.82</rdommin>
+            <rdommax>-57.06</rdommax>
+            <attrunit>Delta vs V-SMOW.</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Tap_enrichment_18O</attrlabl>
+        <attrdef>Concentration of oxygen-18 in a control sample of tap-water as a delta relative to the Vienna Standard Mean Ocean Water (V-SMOW).</attrdef>
+        <attrdefs>Author defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-12.87</rdommin>
+            <rdommax>-9.75</rdommax>
+            <attrunit>Delta vs V-SMOW.</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Mass_DLW_injected</attrlabl>
+        <attrdef>Mass of doubly-labeled water (2H18O) injected into the bear in grams.</attrdef>
+        <attrdefs>Author defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>36.22</rdommin>
+            <rdommax>54.93</rdommax>
+            <attrunit>grams.</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Mass_D2O_injected</attrlabl>
+        <attrdef>Mass of deuterium oxide injected into the bear in grams.</attrdef>
+        <attrdefs>Author defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>15.69</rdommin>
+            <rdommax>20.14</rdommax>
+            <attrunit>grams.</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Mass_sample_injectate</attrlabl>
+        <attrdef>Mass of doubly-labeled water (2H18O) or deuterium oxide sample that was analyzed to assess concentrations in grams.</attrdef>
+        <attrdefs>Author defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.03</rdommin>
+            <rdommax>0.06</rdommax>
+            <attrunit>grams.</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Mass_tap</attrlabl>
+        <attrdef>Mass of control sample of tap water in grams.</attrdef>
+        <attrdefs>Author defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>29.68</rdommin>
+            <rdommax>63.11</rdommax>
+            <attrunit>grams.</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>BUN_1</attrlabl>
+        <attrdef>Blood urea nitrogen concentration in mg/dl from first analysis.</attrdef>
+        <attrdefs>Author defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>2.00</rdommin>
+            <rdommax>27.00</rdommax>
+            <attrunit>mg/dl.</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>CRE_1</attrlabl>
+        <attrdef>Creatinine concentration in mg/dl from first analysis.</attrdef>
+        <attrdefs>Author defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.50</rdommin>
+            <rdommax>1.15</rdommax>
+            <attrunit>mg/dl.</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>BUN_2</attrlabl>
+        <attrdef>Blood urea nitrogen concentration in mg/dl from second analysis.</attrdef>
+        <attrdefs>Author defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>3.00</rdommin>
+            <rdommax>28.00</rdommax>
+            <attrunit>mg/dl.</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>CRE_2</attrlabl>
+        <attrdef>Creatinine concentration in mg/dl from second analysis.</attrdef>
+        <attrdefs>Author defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.50</rdommin>
+            <rdommax>1.20</rdommax>
+            <attrunit>mg/dl.</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>U.S. Geological Survey, Alaska Science Center</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>Mailing and physical</addrtype>
+          <address>4210 University Drive</address>
+          <city>Anchorage</city>
+          <state>AK</state>
+          <postal>99508</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>907-786-7000</cntvoice>
+        <cntemail>ascweb@usgs.gov</cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc>Comma-separated values tabular data file.</resdesc>
+    <distliab>Although used by the U.S. Geological Survey, no warranty, expressed or implied, is made by the U.S. government as to the accuracy of the data nor shall the fact of distribution constitute any such warranty, and no responsibility is assumed by the USGS in connection therewith. 
+It is strongly recommended that the data described or contained herein be acquired directly from the U. S. Geological Survey and not indirectly through some other sources which may have changed the data in some way. 
+Any use of trade, firm or product names is for descriptive purposes only and does not imply endorsement by the U.S. Government.
+This disclaimer applies both to individual use of the data, and aggregate use with other data. These data files and any derived products are not legal documents and are not intended to be used as such.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>CSV</formname>
+          <formvern>None</formvern>
+          <filedec>Winzip</filedec>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>https://doi.org/10.5066/F7XW4H0P</networkr>
+              </networka>
+            </computer>
+            <accinstr>You will be prompted to open or save a zipped file. When you open, you will specify a location to unzip the files to.</accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20180104</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>U.S. Geological Survey Alaska Science Center</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>4210 University Drive</address>
+          <city>Anchorage</city>
+          <state>AK</state>
+          <postal>99508</postal>
+        </cntaddr>
+        <cntvoice>907-786-7000</cntvoice>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Biological Data Profile of the Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001.1-1999</metstdv>
+  </metainfo>
+</metadata>
